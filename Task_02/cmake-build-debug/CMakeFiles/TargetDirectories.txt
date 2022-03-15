@@ -1,0 +1,3 @@
+F:/Programing/Cpp/Task_02/cmake-build-debug/CMakeFiles/Task_02.dir
+F:/Programing/Cpp/Task_02/cmake-build-debug/CMakeFiles/edit_cache.dir
+F:/Programing/Cpp/Task_02/cmake-build-debug/CMakeFiles/rebuild_cache.dir
